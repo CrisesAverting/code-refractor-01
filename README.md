@@ -1,4 +1,8 @@
 # code-refractor-01
+# Whats in this repo
 
-A modified version of a website with improved accessability comments for images
-Corrected sematic HTML
+This repo contains a modified version of a website.
+<ul>
+<li>improved accessability comments for images</li>
+<li>Corrected sematic HTML</li>
+</ul>
