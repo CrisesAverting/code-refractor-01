@@ -1,21 +1,35 @@
-<h2>code-refractor-01</h2>
-<p>
-Code Refactor
-</p>
-<p>
-<img src="https://img.shields.io/github/downloads/CrisesAverting/code-refractor-01/total">
-</p>
-# Whats in this repo
+# Horiseon Code-Refractor
 
-This repository contains a modified version of a Horiseons website.
-<p><img src="./assets/images/readmescreenshot.png"></p>
-<ul>
-<li>improved accessability comments for images</li>
-<li>Corrected sematic HTML</li>
-<li>Fixed Search-engine-optimzation link</li>
-</ul>
-#Languages
-HTML and CSS 
-#Resources
+## Table of Contents
 
+* [Description](#description)
+* [Links](#links)
+* [Purpose](#purpose)
+* [Screenshots](#screenshots)
+* [Technologies Used](#technologies)
+* [Licence](#license)
+* [Credits](#credits)
+## Description
 
+This project is a code refactor of a webpage to improve accessability, maintainance and search engine optimization.
+
+## Purpose
+
+This repository contains a modified version of the Horiseons website, A fictional Marketing company.
+
+## Screenshots
+
+<img src="./assets/images/readmescreenshot.png">
+
+## Technologies
+
+<img src="https://img.shields.io/badge/Built%20with-HTML5-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-CSS3-blue">
+
+## License
+
+<img src="https://img.shields.io/badge/license-MIT-blue">
+
+## Credits
+These materials were developed by the 2U/edX Coding Curriculum Team for use with bootcamp students.
